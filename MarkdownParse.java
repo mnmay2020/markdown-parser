@@ -39,7 +39,6 @@ public class MarkdownParse {
             } else {
                 break;
             }
-            System.out.println(link);
         }
 
         return toReturn;
